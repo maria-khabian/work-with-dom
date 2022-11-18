@@ -211,7 +211,7 @@ buttonDelete.addEventListener('click', () => {
 
 const tasksItemAll = document.querySelectorAll('.task-item');
 const buttonAll = document.querySelectorAll('button');
-console.log(bodyHTML.style.background);
+// console.log(bodyHTML.style.background);
 document.addEventListener('keydown', (event) => {
   // console.log(event.code);
   if (event.code == 'Tab' && bodyHTML.style.background == '') {

@@ -278,3 +278,9 @@ body {
     background-color: var(--delete-button-background);
     border: 1px solid var(--delete-button-background);
 }
+
+.toogleBackground {
+    margin-top: 40px;
+    font-size: 20px;
+    color:#FF0000;
+}
